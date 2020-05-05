@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.d078eb13.chunk.css",
+    "main.js": "/my-app/static/js/main.9ce4d31d.chunk.js",
+    "main.js.map": "/my-app/static/js/main.9ce4d31d.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.8c451e69.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.8c451e69.js.map",
+    "static/js/2.ab3080b6.chunk.js": "/my-app/static/js/2.ab3080b6.chunk.js",
+    "static/js/2.ab3080b6.chunk.js.map": "/my-app/static/js/2.ab3080b6.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.b6326111dbaadbc3979a0a8f4de3f62b.js": "/my-app/precache-manifest.b6326111dbaadbc3979a0a8f4de3f62b.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.d078eb13.chunk.css.map": "/my-app/static/css/main.d078eb13.chunk.css.map",
+    "static/js/2.ab3080b6.chunk.js.LICENSE.txt": "/my-app/static/js/2.ab3080b6.chunk.js.LICENSE.txt",
+    "static/media/Donate.jpg": "/my-app/static/media/Donate.106c14f6.jpg",
+    "static/media/almaktoum.png": "/my-app/static/media/almaktoum.d810278e.png",
+    "static/media/donate_call.jpg": "/my-app/static/media/donate_call.02aeb0d9.jpg",
+    "static/media/lap1.png": "/my-app/static/media/lap1.37ec9d72.png",
+    "static/media/logo.png": "/my-app/static/media/logo.a9e457b9.png",
+    "static/media/sms-logo.jpg": "/my-app/static/media/sms-logo.ed71687d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c451e69.js",
+    "static/js/2.ab3080b6.chunk.js",
+    "static/css/main.d078eb13.chunk.css",
+    "static/js/main.9ce4d31d.chunk.js"
+  ]
+}
